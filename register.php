@@ -1,6 +1,6 @@
 <?php
 
-    $con = mysqli_connect('sql6.freesqldatabase.com', 'root', 'root', 'sql6684383');
+    $con = mysqli_connect('sql6.freesqldatabase.com', 'sql6684383', 'Lpw3dtzYZT', 'sql6684383');
     
     if (mysqli_connect_error())
     {
